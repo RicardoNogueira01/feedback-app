@@ -14,6 +14,11 @@
       "id": 3,
       "rating": 4,
       "text": "this is feedback item 3 from BE"
+    },
+    {
+      "text": "This is a great service to use!",
+      "rating": 8,
+      "id": 4
     }
   ]
 }
